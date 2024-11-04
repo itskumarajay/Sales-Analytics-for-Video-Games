@@ -1,9 +1,3 @@
-# Sales-Analytics-for-Video-Games
-Sales Analytics for Video Games
-![image](https://github.com/user-attachments/assets/28247f1e-1d7a-40c8-9cd9-d6f013a008e3)
-
-Certainly! Here’s a step-by-step guide to implementing your interactive video game sales dashboard in Tableau:
-
 Step 1: Import the Data
 Open Tableau.
 Connect to your data:
@@ -90,4 +84,3 @@ Once satisfied with your dashboard, publish it to Tableau Public or your Tableau
 Step 15: Share Your Work
 Share the Published Dashboard:
 Share the link with others or embed it into websites as needed.
-By following these steps, you should be able to create a comprehensive and interactive video game sales dashboard in Tableau!
